@@ -1,6 +1,17 @@
 # ProgramLang-C-
 
-Reflective Insights:
+
+Summary:
+The "Corner Grocer: Item Tracker" is a C++ software solution tailored to streamline the tracking of purchased items for the Corner Grocer chain. By transitioning from manual tracking to this digital method, the project aimed to alleviate operational inefficiencies and enhance transactional accuracy.
+
+Key Features:
+Find frequency of a specific item: Allows staff to quickly determine how many times an item has been purchased.
+Display all item frequencies: Presents a comprehensive view of all items and their corresponding purchase counts.
+Display frequency histogram: Visualizes item purchase data in a histogram format.
+Exit: Securely closes the application.
+Additionally, upon running the program, item frequency data is automatically exported to a .dat file, ensuring that Corner Grocer has a tangible record of daily transactions.
+
+Reflective Insights
 
 What I did particularly well:
 The success of the project is largely owed to the menu-driven interface, which I designed to be both intuitive and accommodating for users. Keeping the needs of Corner Grocer staff in mind, I developed the software to be straightforward, ensuring that users could navigate the features without any technical hiccups.
